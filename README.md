@@ -1,5 +1,5 @@
-# botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+# MUDYBOT
+BOT WHATSAPP HP MAHMUDY HADI MULYANTO
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -26,7 +26,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| st4rz BOT       |                Feature           |
+| mudybot       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
@@ -43,10 +43,6 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Wikipedia                        |
 |       ✅       | Say                              |
 |       ✅       | Info                             |
-|       ✅       | Donate                           |
 
 ## Special Thanks to
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
-
-### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
